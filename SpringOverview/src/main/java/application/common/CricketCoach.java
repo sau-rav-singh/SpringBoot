@@ -1,4 +1,4 @@
-package com.saurav.mycoolapp;
+package application.common;
 
 import org.springframework.stereotype.Component;
 

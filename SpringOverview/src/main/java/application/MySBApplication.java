@@ -1,11 +1,11 @@
-package com.saurav.mycoolapp;
+package application;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MycoolappApplication {
+public class MySBApplication {
     public static void main(String[] args) {
-        SpringApplication.run(MycoolappApplication.class, args);
+        SpringApplication.run(MySBApplication.class, args);
     }
 }

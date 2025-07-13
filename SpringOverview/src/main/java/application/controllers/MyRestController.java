@@ -1,6 +1,6 @@
-package com.saurav.mycoolapp.controllers;
+package application.controllers;
 
-import com.saurav.mycoolapp.Coach;
+import application.common.Coach;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -21,7 +21,7 @@ public class MyRestController {
 
     @GetMapping("/")
     public String sayHello() {
-        return "Hello " + coachName;
+        return "Hello Mr " + coachName;
     }
 
     @GetMapping("/dailyworkout")
