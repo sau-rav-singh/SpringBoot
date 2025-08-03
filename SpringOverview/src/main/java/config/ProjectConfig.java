@@ -50,4 +50,5 @@ public class ProjectConfig {
     public Integer number() {
         return 16;
     }
+
 }
