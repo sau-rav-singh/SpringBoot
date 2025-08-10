@@ -14,6 +14,7 @@ public class GaadiServices {
         this.speaker = speaker;
         this.tyre = tyre;
     }
+
     public void playMusic() {
         System.out.println(speaker.makeSound());
     }
