@@ -2,13 +2,11 @@ package config;
 
 import beans.Vehicle;
 import org.springframework.beans.factory.annotation.Qualifier;
-import org.springframework.context.annotation.Bean;
-import org.springframework.context.annotation.ComponentScan;
-import org.springframework.context.annotation.Configuration;
-import org.springframework.context.annotation.Primary;
+import org.springframework.context.annotation.*;
 
 @Configuration
-@ComponentScan(basePackages = "beans")
+@EnableAspectJAutoProxy
+@ComponentScan(basePackages = {"beans", "aspects"})
 public class ProjectConfig {
 
     @Bean(name = "audiVehicle")  // Converts return value to Spring Bean
