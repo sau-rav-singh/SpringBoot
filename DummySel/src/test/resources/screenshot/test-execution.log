@@ -1,0 +1,170 @@
+2025-09-13T19:09:27.324+05:30  INFO 3852 --- [main] com.saurav.dummySelenium.GoogleTest      : Starting GoogleTest using Java 23.0.2 with PID 3852 (C:\Users\singh\IdeaProjects\SpringBoot\DummySel\target\test-classes started by singh in C:\Users\singh\IdeaProjects\SpringBoot\DummySel)
+2025-09-13T19:09:27.325+05:30  INFO 3852 --- [main] com.saurav.dummySelenium.GoogleTest      : No active profile set, falling back to 1 default profile: "default"
+2025-09-13T19:09:27.885+05:30  INFO 3852 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-09-13T19:09:27.924+05:30  INFO 3852 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 14 ms. Found 0 JPA repository interfaces.
+2025-09-13T19:09:28.432+05:30  INFO 3852 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2025-09-13T19:09:28.617+05:30  INFO 3852 --- [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:e3f8363b-6612-4811-9578-584816d88577 user=SA
+2025-09-13T19:09:28.619+05:30  INFO 3852 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2025-09-13T19:09:28.674+05:30  INFO 3852 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-09-13T19:09:28.732+05:30  INFO 3852 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.4.1.Final
+2025-09-13T19:09:28.768+05:30  INFO 3852 --- [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2025-09-13T19:09:29.012+05:30  INFO 3852 --- [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-09-13T19:09:29.452+05:30  INFO 3852 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-09-13T19:09:29.458+05:30  INFO 3852 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-09-13T19:09:30.868+05:30  WARN 3852 --- [main] o.o.selenium.devtools.CdpVersionFinder   : Unable to find CDP implementation matching 140
+2025-09-13T19:09:30.869+05:30  WARN 3852 --- [main] o.o.selenium.chromium.ChromiumDriver     : Unable to find version of CDP to use for 140.0.7339.82. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.22.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+2025-09-13T19:09:31.287+05:30  INFO 3852 --- [main] com.saurav.dummySelenium.GoogleTest      : Started GoogleTest in 4.383 seconds (process running for 5.973)
+2025-09-13T19:09:37.336+05:30  INFO 3852 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-09-13T19:09:37.341+05:30  INFO 3852 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2025-09-13T19:09:37.347+05:30  INFO 3852 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2025-09-13T19:11:28.355+05:30  INFO 12688 --- [main] com.saurav.dummySelenium.GoogleTest      : Starting GoogleTest using Java 23.0.2 with PID 12688 (C:\Users\singh\IdeaProjects\SpringBoot\DummySel\target\test-classes started by singh in C:\Users\singh\IdeaProjects\SpringBoot\DummySel)
+2025-09-13T19:11:28.359+05:30  INFO 12688 --- [main] com.saurav.dummySelenium.GoogleTest      : No active profile set, falling back to 1 default profile: "default"
+2025-09-13T19:11:28.891+05:30  INFO 12688 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-09-13T19:11:28.915+05:30  INFO 12688 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 15 ms. Found 0 JPA repository interfaces.
+2025-09-13T19:11:29.469+05:30  INFO 12688 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2025-09-13T19:11:29.672+05:30  INFO 12688 --- [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:755aa8a0-5df2-4353-927b-8cfacd8bda1a user=SA
+2025-09-13T19:11:29.674+05:30  INFO 12688 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2025-09-13T19:11:29.750+05:30  INFO 12688 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-09-13T19:11:29.816+05:30  INFO 12688 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.4.1.Final
+2025-09-13T19:11:29.866+05:30  INFO 12688 --- [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2025-09-13T19:11:30.128+05:30  INFO 12688 --- [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-09-13T19:11:30.588+05:30  INFO 12688 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-09-13T19:11:30.594+05:30  INFO 12688 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-09-13T19:11:31.979+05:30  WARN 12688 --- [main] o.o.selenium.devtools.CdpVersionFinder   : Unable to find CDP implementation matching 140
+2025-09-13T19:11:31.980+05:30  WARN 12688 --- [main] o.o.selenium.chromium.ChromiumDriver     : Unable to find version of CDP to use for 140.0.7339.82. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.22.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+2025-09-13T19:11:32.375+05:30  INFO 12688 --- [main] com.saurav.dummySelenium.GoogleTest      : Started GoogleTest in 4.468 seconds (process running for 6.334)
+2025-09-13T19:11:35.820+05:30  INFO 12688 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-09-13T19:11:35.825+05:30  INFO 12688 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2025-09-13T19:11:35.832+05:30  INFO 12688 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2025-09-13T19:13:11.993+05:30  INFO 15988 --- [main] com.saurav.dummySelenium.GoogleTest      : Starting GoogleTest using Java 23.0.2 with PID 15988 (C:\Users\singh\IdeaProjects\SpringBoot\DummySel\target\test-classes started by singh in C:\Users\singh\IdeaProjects\SpringBoot\DummySel)
+2025-09-13T19:13:11.994+05:30  INFO 15988 --- [main] com.saurav.dummySelenium.GoogleTest      : No active profile set, falling back to 1 default profile: "default"
+2025-09-13T19:13:12.543+05:30  INFO 15988 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-09-13T19:13:12.565+05:30  INFO 15988 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 15 ms. Found 0 JPA repository interfaces.
+2025-09-13T19:13:13.045+05:30  INFO 15988 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2025-09-13T19:13:13.233+05:30  INFO 15988 --- [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:777a1b1f-6797-4acc-acf1-cdf82b0c963b user=SA
+2025-09-13T19:13:13.235+05:30  INFO 15988 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2025-09-13T19:13:13.301+05:30  INFO 15988 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-09-13T19:13:13.372+05:30  INFO 15988 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.4.1.Final
+2025-09-13T19:13:13.415+05:30  INFO 15988 --- [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2025-09-13T19:13:13.709+05:30  INFO 15988 --- [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-09-13T19:13:14.189+05:30  INFO 15988 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-09-13T19:13:14.195+05:30  INFO 15988 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-09-13T19:13:15.495+05:30  WARN 15988 --- [main] o.o.selenium.devtools.CdpVersionFinder   : Unable to find CDP implementation matching 140
+2025-09-13T19:13:15.496+05:30  WARN 15988 --- [main] o.o.selenium.chromium.ChromiumDriver     : Unable to find version of CDP to use for 140.0.7339.82. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.22.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+2025-09-13T19:13:15.915+05:30  INFO 15988 --- [main] com.saurav.dummySelenium.GoogleTest      : Started GoogleTest in 4.424 seconds (process running for 6.057)
+2025-09-13T19:13:24.360+05:30  INFO 15988 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-09-13T19:13:24.362+05:30  INFO 15988 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2025-09-13T19:13:24.364+05:30  INFO 15988 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2025-09-13T19:13:50.118+05:30  INFO 6808 --- [main] com.saurav.dummySelenium.GoogleTest      : Starting GoogleTest using Java 23.0.2 with PID 6808 (C:\Users\singh\IdeaProjects\SpringBoot\DummySel\target\test-classes started by singh in C:\Users\singh\IdeaProjects\SpringBoot\DummySel)
+2025-09-13T19:13:50.120+05:30  INFO 6808 --- [main] com.saurav.dummySelenium.GoogleTest      : No active profile set, falling back to 1 default profile: "default"
+2025-09-13T19:13:50.686+05:30  INFO 6808 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-09-13T19:13:50.711+05:30  INFO 6808 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 16 ms. Found 0 JPA repository interfaces.
+2025-09-13T19:13:51.214+05:30  INFO 6808 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2025-09-13T19:13:51.391+05:30  INFO 6808 --- [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:07429ded-7aed-429a-be35-50892a7ffcf9 user=SA
+2025-09-13T19:13:51.394+05:30  INFO 6808 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2025-09-13T19:13:51.475+05:30  INFO 6808 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-09-13T19:13:51.536+05:30  INFO 6808 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.4.1.Final
+2025-09-13T19:13:51.599+05:30  INFO 6808 --- [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2025-09-13T19:13:51.862+05:30  INFO 6808 --- [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-09-13T19:13:52.307+05:30  INFO 6808 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-09-13T19:13:52.314+05:30  INFO 6808 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-09-13T19:13:53.661+05:30  WARN 6808 --- [main] o.o.selenium.devtools.CdpVersionFinder   : Unable to find CDP implementation matching 140
+2025-09-13T19:13:53.661+05:30  WARN 6808 --- [main] o.o.selenium.chromium.ChromiumDriver     : Unable to find version of CDP to use for 140.0.7339.82. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.22.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+2025-09-13T19:13:54.137+05:30  INFO 6808 --- [main] com.saurav.dummySelenium.GoogleTest      : Started GoogleTest in 4.438 seconds (process running for 6.11)
+2025-09-13T19:13:58.701+05:30  INFO 6808 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-09-13T19:13:58.703+05:30  INFO 6808 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2025-09-13T19:13:58.705+05:30  INFO 6808 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2025-09-13T19:19:44.257+05:30  INFO 3356 --- [main] com.saurav.dummySelenium.GoogleTest      : Starting GoogleTest using Java 23.0.2 with PID 3356 (C:\Users\singh\IdeaProjects\SpringBoot\DummySel\target\test-classes started by singh in C:\Users\singh\IdeaProjects\SpringBoot\DummySel)
+2025-09-13T19:19:44.258+05:30  INFO 3356 --- [main] com.saurav.dummySelenium.GoogleTest      : No active profile set, falling back to 1 default profile: "default"
+2025-09-13T19:19:44.812+05:30  INFO 3356 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-09-13T19:19:44.833+05:30  INFO 3356 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 15 ms. Found 0 JPA repository interfaces.
+2025-09-13T19:19:45.326+05:30  INFO 3356 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2025-09-13T19:19:45.549+05:30  INFO 3356 --- [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:1df9e7b4-3ac8-4a55-a181-24aaedd1c3bf user=SA
+2025-09-13T19:19:45.553+05:30  INFO 3356 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2025-09-13T19:19:45.620+05:30  INFO 3356 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-09-13T19:19:45.682+05:30  INFO 3356 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.4.1.Final
+2025-09-13T19:19:45.734+05:30  INFO 3356 --- [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2025-09-13T19:19:46.036+05:30  INFO 3356 --- [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-09-13T19:19:46.482+05:30  INFO 3356 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-09-13T19:19:46.488+05:30  INFO 3356 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-09-13T19:19:47.884+05:30  WARN 3356 --- [main] o.o.selenium.devtools.CdpVersionFinder   : Unable to find CDP implementation matching 140
+2025-09-13T19:19:47.885+05:30  WARN 3356 --- [main] o.o.selenium.chromium.ChromiumDriver     : Unable to find version of CDP to use for 140.0.7339.82. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.22.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+2025-09-13T19:19:48.353+05:30  INFO 3356 --- [main] com.saurav.dummySelenium.GoogleTest      : Started GoogleTest in 4.485 seconds (process running for 5.952)
+2025-09-13T19:20:04.651+05:30  INFO 3356 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-09-13T19:20:04.654+05:30  INFO 3356 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2025-09-13T19:20:04.657+05:30  INFO 3356 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2025-09-13T19:20:29.402+05:30  INFO 7912 --- [main] com.saurav.dummySelenium.GoogleTest      : Starting GoogleTest using Java 23.0.2 with PID 7912 (C:\Users\singh\IdeaProjects\SpringBoot\DummySel\target\test-classes started by singh in C:\Users\singh\IdeaProjects\SpringBoot\DummySel)
+2025-09-13T19:20:29.404+05:30  INFO 7912 --- [main] com.saurav.dummySelenium.GoogleTest      : No active profile set, falling back to 1 default profile: "default"
+2025-09-13T19:20:29.982+05:30  INFO 7912 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-09-13T19:20:30.007+05:30  INFO 7912 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 15 ms. Found 0 JPA repository interfaces.
+2025-09-13T19:20:30.524+05:30  INFO 7912 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2025-09-13T19:20:30.702+05:30  INFO 7912 --- [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:c9a1ab92-6a03-427e-b97a-d2ae80d8a592 user=SA
+2025-09-13T19:20:30.704+05:30  INFO 7912 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2025-09-13T19:20:30.765+05:30  INFO 7912 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-09-13T19:20:30.831+05:30  INFO 7912 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.4.1.Final
+2025-09-13T19:20:30.886+05:30  INFO 7912 --- [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2025-09-13T19:20:31.139+05:30  INFO 7912 --- [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-09-13T19:20:31.624+05:30  INFO 7912 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-09-13T19:20:31.630+05:30  INFO 7912 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-09-13T19:20:32.876+05:30  WARN 7912 --- [main] o.o.selenium.devtools.CdpVersionFinder   : Unable to find CDP implementation matching 140
+2025-09-13T19:20:32.876+05:30  WARN 7912 --- [main] o.o.selenium.chromium.ChromiumDriver     : Unable to find version of CDP to use for 140.0.7339.82. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.22.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+2025-09-13T19:20:33.345+05:30  INFO 7912 --- [main] com.saurav.dummySelenium.GoogleTest      : Started GoogleTest in 4.335 seconds (process running for 6.054)
+2025-09-13T19:20:48.720+05:30  INFO 7912 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-09-13T19:20:48.722+05:30  INFO 7912 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2025-09-13T19:20:48.724+05:30  INFO 7912 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2025-09-13T19:20:57.490+05:30  INFO 4712 --- [main] com.saurav.dummySelenium.GoogleTest      : Starting GoogleTest using Java 23.0.2 with PID 4712 (C:\Users\singh\IdeaProjects\SpringBoot\DummySel\target\test-classes started by singh in C:\Users\singh\IdeaProjects\SpringBoot\DummySel)
+2025-09-13T19:20:57.493+05:30  INFO 4712 --- [main] com.saurav.dummySelenium.GoogleTest      : No active profile set, falling back to 1 default profile: "default"
+2025-09-13T19:20:58.015+05:30  INFO 4712 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-09-13T19:20:58.037+05:30  INFO 4712 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 15 ms. Found 0 JPA repository interfaces.
+2025-09-13T19:20:58.494+05:30  INFO 4712 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2025-09-13T19:20:58.695+05:30  INFO 4712 --- [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:8be8e86f-9d0f-42a5-a911-727560c0b300 user=SA
+2025-09-13T19:20:58.698+05:30  INFO 4712 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2025-09-13T19:20:58.797+05:30  INFO 4712 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-09-13T19:20:58.873+05:30  INFO 4712 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.4.1.Final
+2025-09-13T19:20:58.915+05:30  INFO 4712 --- [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2025-09-13T19:20:59.193+05:30  INFO 4712 --- [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-09-13T19:20:59.708+05:30  INFO 4712 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-09-13T19:20:59.714+05:30  INFO 4712 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-09-13T19:21:00.949+05:30  WARN 4712 --- [main] o.o.selenium.devtools.CdpVersionFinder   : Unable to find CDP implementation matching 140
+2025-09-13T19:21:00.950+05:30  WARN 4712 --- [main] o.o.selenium.chromium.ChromiumDriver     : Unable to find version of CDP to use for 140.0.7339.82. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.22.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+2025-09-13T19:21:01.337+05:30  INFO 4712 --- [main] com.saurav.dummySelenium.GoogleTest      : Started GoogleTest in 4.224 seconds (process running for 5.636)
+2025-09-13T19:21:05.485+05:30  INFO 4712 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-09-13T19:21:05.487+05:30  INFO 4712 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2025-09-13T19:21:05.491+05:30  INFO 4712 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2025-09-13T19:21:17.180+05:30  INFO 20580 --- [main] com.saurav.dummySelenium.GoogleTest      : Starting GoogleTest using Java 23.0.2 with PID 20580 (C:\Users\singh\IdeaProjects\SpringBoot\DummySel\target\test-classes started by singh in C:\Users\singh\IdeaProjects\SpringBoot\DummySel)
+2025-09-13T19:21:17.181+05:30  INFO 20580 --- [main] com.saurav.dummySelenium.GoogleTest      : No active profile set, falling back to 1 default profile: "default"
+2025-09-13T19:21:17.697+05:30  INFO 20580 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-09-13T19:21:17.720+05:30  INFO 20580 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 15 ms. Found 0 JPA repository interfaces.
+2025-09-13T19:21:18.231+05:30  INFO 20580 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2025-09-13T19:21:18.407+05:30  INFO 20580 --- [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:3e765126-15f3-44a3-8c0c-37b3e47816f0 user=SA
+2025-09-13T19:21:18.409+05:30  INFO 20580 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2025-09-13T19:21:18.478+05:30  INFO 20580 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-09-13T19:21:18.545+05:30  INFO 20580 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.4.1.Final
+2025-09-13T19:21:18.590+05:30  INFO 20580 --- [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2025-09-13T19:21:18.839+05:30  INFO 20580 --- [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-09-13T19:21:19.322+05:30  INFO 20580 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-09-13T19:21:19.330+05:30  INFO 20580 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-09-13T19:21:20.585+05:30  WARN 20580 --- [main] o.o.selenium.devtools.CdpVersionFinder   : Unable to find CDP implementation matching 140
+2025-09-13T19:21:20.586+05:30  WARN 20580 --- [main] o.o.selenium.chromium.ChromiumDriver     : Unable to find version of CDP to use for 140.0.7339.82. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.22.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+2025-09-13T19:21:21.025+05:30  INFO 20580 --- [main] com.saurav.dummySelenium.GoogleTest      : Started GoogleTest in 4.23 seconds (process running for 5.641)
+2025-09-13T19:21:35.457+05:30  INFO 20580 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-09-13T19:21:35.461+05:30  INFO 20580 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2025-09-13T19:21:35.467+05:30  INFO 20580 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2025-09-13T19:23:52.627+05:30  INFO 14084 --- [main] com.saurav.dummySelenium.GoogleTest      : Starting GoogleTest using Java 23.0.2 with PID 14084 (C:\Users\singh\IdeaProjects\SpringBoot\DummySel\target\test-classes started by singh in C:\Users\singh\IdeaProjects\SpringBoot\DummySel)
+2025-09-13T19:23:52.629+05:30  INFO 14084 --- [main] com.saurav.dummySelenium.GoogleTest      : No active profile set, falling back to 1 default profile: "default"
+2025-09-13T19:23:53.099+05:30  INFO 14084 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-09-13T19:23:53.122+05:30  INFO 14084 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 15 ms. Found 0 JPA repository interfaces.
+2025-09-13T19:23:53.593+05:30  INFO 14084 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2025-09-13T19:23:53.782+05:30  INFO 14084 --- [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:e4c8b02f-72bb-4826-9c54-6a790d6a276d user=SA
+2025-09-13T19:23:53.792+05:30  INFO 14084 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2025-09-13T19:23:53.901+05:30  INFO 14084 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-09-13T19:23:53.974+05:30  INFO 14084 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.4.1.Final
+2025-09-13T19:23:54.030+05:30  INFO 14084 --- [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2025-09-13T19:23:54.297+05:30  INFO 14084 --- [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-09-13T19:23:54.767+05:30  INFO 14084 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-09-13T19:23:54.773+05:30  INFO 14084 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-09-13T19:24:05.068+05:30  WARN 14084 --- [main] o.o.selenium.devtools.CdpVersionFinder   : Unable to find an exact match for CDP version 140, returning the closest version; found: 139; Please update to a Selenium version that supports CDP version 140
+2025-09-13T19:24:05.514+05:30  INFO 14084 --- [main] com.saurav.dummySelenium.GoogleTest      : Started GoogleTest in 13.341 seconds (process running for 17.326)
+2025-09-13T19:24:19.451+05:30  INFO 14084 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-09-13T19:24:19.453+05:30  INFO 14084 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2025-09-13T19:24:19.455+05:30  INFO 14084 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.

@@ -17,14 +17,12 @@ public class WebDriverConfig {
     @ThreadScopeBean
     @ConditionalOnProperty(name = "browser", havingValue = "firefox")
     public WebDriver firefoxDriver(){
-        WebDriverManager.firefoxdriver().setup();
         return new FirefoxDriver();
     }
 
     @ThreadScopeBean
     @ConditionalOnMissingBean
     public WebDriver chromeDriver(){
-        WebDriverManager.chromedriver().setup();
         return new ChromeDriver();
     }
 

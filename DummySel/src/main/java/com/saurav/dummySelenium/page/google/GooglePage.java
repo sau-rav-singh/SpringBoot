@@ -1,11 +1,11 @@
-package com.udemy.spring.springselenium.page.google;
+package com.saurav.dummySelenium.page.google;
 
-import com.udemy.spring.springselenium.kelvin.annotation.Page;
-import com.udemy.spring.springselenium.page.Base;
+import com.saurav.dummySelenium.page.Base;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
+import org.springframework.stereotype.Component;
 
-@Page
+@Component
 public class GooglePage extends Base {
 
     @Autowired
@@ -27,11 +27,6 @@ public class GooglePage extends Base {
 
     public SearchResult getSearchResult() {
         return searchResult;
-    }
-
-    @Override
-    public boolean isAt() {
-        return this.searchComponent.isAt();
     }
 
     public void close() {
